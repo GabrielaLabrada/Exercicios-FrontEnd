@@ -85,5 +85,6 @@
         border: none;
         text-transform: uppercase;
         padding: 15px 26px 15px 26px;
+        cursor: pointer;
     }
 }
